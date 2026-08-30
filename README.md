@@ -7,3 +7,7 @@ This repository contains my Unit 1 activity notebooks for Visualization of Data,
 - Submission method: one activity branch and pull request per PPT
 
 Each notebook includes the completed analysis, charts, written observations, and saved execution outputs.
+
+## PPT 8 activity
+
+This branch contains the Melbourne property relationship and trend analysis. It compares land-size correlations by property type and uses moving-average and LOESS smoothing to interpret the selected suburb without hiding uncertainty.

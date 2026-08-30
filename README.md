@@ -7,3 +7,7 @@ This repository contains my Unit 1 activity notebooks for Visualization of Data,
 - Submission method: one activity branch and pull request per PPT
 
 Each notebook includes the completed analysis, charts, written observations, and saved execution outputs.
+
+## PPT 7 activity
+
+This branch contains the QuickCart delivery analysis. It compares histogram bin choices, uses a density plot to expose the two delivery modes, and evaluates regional delay proportions before making an operations recommendation.

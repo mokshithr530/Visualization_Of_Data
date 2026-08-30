@@ -7,3 +7,7 @@ This repository contains my Unit 1 activity notebooks for Visualization of Data,
 - Submission method: one activity branch and pull request per PPT
 
 Each notebook includes the completed analysis, charts, written observations, and saved execution outputs.
+
+## PPT 6 activity
+
+This branch contains the colour-theory policy briefing. The notebook applies sequential, qualitative, diverging, accent, and perceptually uniform colour scales to the World Happiness data and explains why each mapping fits the question.

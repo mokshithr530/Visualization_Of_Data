@@ -7,3 +7,7 @@ This repository contains my Unit 1 activity notebooks for Visualization of Data,
 - Submission method: one activity branch and pull request per PPT
 
 Each notebook includes the completed analysis, charts, written observations, and saved execution outputs.
+
+## PPT 3 activity
+
+This branch contains the Apple product pricing sprint. It compares product categories, shows monthly price movement, and uses a bubble chart to connect price, rating, review volume, and category while keeping the visual encodings honest.
